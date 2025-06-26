@@ -12,8 +12,5 @@ _download/
 BepInEx/cache/
 BepInEx/plugins/**/README.md
 BepInEx/plugins/**/CHANGELOG.md
-BepInEx/plugins/**/LICENSE
-BepInEx/plugins/**/LICENSE.txt
-BepInEx/plugins/**/LICENSE.md
 BepInEx/plugins/**/icon.png
 BepInEx/LogOutput.log
