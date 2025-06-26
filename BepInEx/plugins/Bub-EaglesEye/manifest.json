@@ -1,0 +1,10 @@
+{
+    "name": "EaglesEye",
+    "author": "MrBub",
+    "version_number": "2.0.0",
+    "website_url": "",
+    "description": "Hold C to Zoom In",
+    "dependencies": [
+		"BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "name": "HUDBuddy",
+    "version_number": "1.0.0",
+    "website_url": "",
+    "description": "Displays other players' item and backpack HUDs in multiplayer sessions. Includes proximity filtering, customizable HUD size, and refresh settings.",
+    "dependencies": [
+        "BepInEx-BepInExPack_PEAK-5.4.2403"
+    ]
+}
