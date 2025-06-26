@@ -1,0 +1,19 @@
+# Game
+D3D12/
+MonoBleedingEdge/
+PEAK_Data/
+PEAK.exe
+UnityCrashHandler64.exe
+UnityPlayer.dll
+version.txt
+
+# General mod files
+_download/
+BepInEx/cache/
+BepInEx/plugins/**/README.md
+BepInEx/plugins/**/CHANGELOG.md
+BepInEx/plugins/**/LICENSE
+BepInEx/plugins/**/LICENSE.txt
+BepInEx/plugins/**/LICENSE.md
+BepInEx/plugins/**/icon.png
+BepInEx/LogOutput.log
