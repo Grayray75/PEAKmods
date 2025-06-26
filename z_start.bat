@@ -1,2 +1,3 @@
 CALL z_update_mods.bat
-START /b "PEAK.exe"
+pause
+START /b "PEAK.exe" %1
