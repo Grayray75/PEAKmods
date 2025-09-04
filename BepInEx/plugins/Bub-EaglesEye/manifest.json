@@ -1,9 +1,9 @@
 {
     "name": "EaglesEye",
     "author": "MrBub",
-    "version_number": "2.6.0",
+    "version_number": "2.9.1",
     "website_url": "",
-    "description": "(PATCH v1.7) Adds a zoom feature with scroll support and optional binocular overlay. Spot things like an eagle.",
+    "description": "Adds a zoom feature with scroll support and optional binocular overlay. Spot things like an eagle.",
     "dependencies": [
 		"BepInEx-BepInExPack_PEAK-5.4.2403"
     ]
